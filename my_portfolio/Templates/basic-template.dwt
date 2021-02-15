@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/icl0jgf.css">
+<link rel="stylesheet" href="https://use.typekit.net/icl0jgf.css">
+<link rel="stylesheet" href="https://use.typekit.net/icl0jgf.css">
+<style type="text/css">
+	
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+	
+<body>
+<div id="container">
+  <header></header>
+<nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li> 
+	</ul>
+</nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a young woman, a daughter, a sister, an athlete, a singer, an actress, a dancer, and artist.</h3> <h3>Join me as I examine life through my lense.</h3><h3>By Gracyn Hall</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,149 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * canada-type-gibson:
+ *   - http://typekit.com/eulas/00000000000000007735a53a
+ *   - http://typekit.com/eulas/00000000000000007735a53e
+ *   - http://typekit.com/eulas/00000000000000007735a53f
+ *   - http://typekit.com/eulas/00000000000000007735a543
+ * neonoir:
+ *   - http://typekit.com/eulas/00000000000000007735b9c8
+ *   - http://typekit.com/eulas/00000000000000007735b9cc
+ * politica:
+ *   - http://typekit.com/eulas/00000000000000007735b1a7
+ *   - http://typekit.com/eulas/00000000000000007735b1aa
+ *   - http://typekit.com/eulas/00000000000000007735b1ad
+ *   - http://typekit.com/eulas/00000000000000007735b1b0
+ * politica-condensed:
+ *   - http://typekit.com/eulas/00000000000000007735b1a8
+ *   - http://typekit.com/eulas/00000000000000007735b1ab
+ *   - http://typekit.com/eulas/00000000000000007735b1ae
+ *   - http://typekit.com/eulas/00000000000000007735b1b1
+ * politica-expanded:
+ *   - http://typekit.com/eulas/00000000000000007735b1a9
+ *   - http://typekit.com/eulas/00000000000000007735b1ac
+ *   - http://typekit.com/eulas/00000000000000007735b1af
+ *   - http://typekit.com/eulas/00000000000000007735b1b2
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-02-05 01:13:21 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=icl0jgf&ht=tk&f=24349.24350.24351.24354.29313.29314.29315.29316.29325.29326.29327.29328.29337.29338.29339.29340.40154.40155&a=31903902&app=typekit&e=css");
+
+@font-face {
+font-family:"canada-type-gibson";
+src:url("https://use.typekit.net/af/69c1f9/00000000000000007735a53a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/69c1f9/00000000000000007735a53a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/69c1f9/00000000000000007735a53a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"canada-type-gibson";
+src:url("https://use.typekit.net/af/410f00/00000000000000007735a53e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/410f00/00000000000000007735a53e/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/410f00/00000000000000007735a53e/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"canada-type-gibson";
+src:url("https://use.typekit.net/af/017a45/00000000000000007735a53f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/017a45/00000000000000007735a53f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/017a45/00000000000000007735a53f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"canada-type-gibson";
+src:url("https://use.typekit.net/af/987a60/00000000000000007735a543/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/987a60/00000000000000007735a543/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/987a60/00000000000000007735a543/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"politica";
+src:url("https://use.typekit.net/af/6432a9/00000000000000007735b1a7/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/6432a9/00000000000000007735b1a7/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/6432a9/00000000000000007735b1a7/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"politica";
+src:url("https://use.typekit.net/af/9ef300/00000000000000007735b1aa/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9ef300/00000000000000007735b1aa/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9ef300/00000000000000007735b1aa/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"politica";
+src:url("https://use.typekit.net/af/2af45c/00000000000000007735b1ad/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/2af45c/00000000000000007735b1ad/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/2af45c/00000000000000007735b1ad/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"politica";
+src:url("https://use.typekit.net/af/118347/00000000000000007735b1b0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/118347/00000000000000007735b1b0/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/118347/00000000000000007735b1b0/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"politica-condensed";
+src:url("https://use.typekit.net/af/391c30/00000000000000007735b1a8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/391c30/00000000000000007735b1a8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/391c30/00000000000000007735b1a8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"politica-condensed";
+src:url("https://use.typekit.net/af/14d125/00000000000000007735b1ab/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/14d125/00000000000000007735b1ab/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/14d125/00000000000000007735b1ab/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"politica-condensed";
+src:url("https://use.typekit.net/af/fae627/00000000000000007735b1ae/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/fae627/00000000000000007735b1ae/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/fae627/00000000000000007735b1ae/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"politica-condensed";
+src:url("https://use.typekit.net/af/750d19/00000000000000007735b1b1/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/750d19/00000000000000007735b1b1/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/750d19/00000000000000007735b1b1/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"politica-expanded";
+src:url("https://use.typekit.net/af/42eedb/00000000000000007735b1a9/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/42eedb/00000000000000007735b1a9/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/42eedb/00000000000000007735b1a9/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"politica-expanded";
+src:url("https://use.typekit.net/af/9fdd66/00000000000000007735b1ac/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9fdd66/00000000000000007735b1ac/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9fdd66/00000000000000007735b1ac/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"politica-expanded";
+src:url("https://use.typekit.net/af/63d18b/00000000000000007735b1af/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/63d18b/00000000000000007735b1af/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/63d18b/00000000000000007735b1af/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"politica-expanded";
+src:url("https://use.typekit.net/af/30e927/00000000000000007735b1b2/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/30e927/00000000000000007735b1b2/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/30e927/00000000000000007735b1b2/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"neonoir";
+src:url("https://use.typekit.net/af/8afae9/00000000000000007735b9c8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/8afae9/00000000000000007735b9c8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/8afae9/00000000000000007735b9c8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;
+}
+
+@font-face {
+font-family:"neonoir";
+src:url("https://use.typekit.net/af/c069f0/00000000000000007735b9cc/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/c069f0/00000000000000007735b9cc/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/c069f0/00000000000000007735b9cc/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+.tk-canada-type-gibson { font-family: "canada-type-gibson",sans-serif; }
+.tk-politica { font-family: "politica",sans-serif; }
+.tk-politica-condensed { font-family: "politica-condensed",sans-serif; }
+.tk-politica-expanded { font-family: "politica-expanded",sans-serif; }
+.tk-neonoir { font-family: "neonoir",sans-serif; }
